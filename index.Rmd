@@ -1,0 +1,18 @@
+---
+title: "My Website"
+---
+
+Hello, Website!
+
+_my name is Qi[website]
+
+![](http://i192.photobucket.com/albums/z241/Textbased/frogjumping.jpg)
+
+![](C:/Users/xiaoqi/Desktop/WeChatImage_20180901122057.jpg)
+
+(this is my photo)[photography.com]
+
+
+
+
+
